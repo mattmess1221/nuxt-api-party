@@ -18,8 +18,8 @@ importers:
         specifier: ^2.4.2
         version: 2.4.2
       nuxt-version-shake:
-        specifier: ^0.1.0
-        version: 0.1.0(magicast@0.3.5)(oxc-parser@0.72.3)
+        specifier: ^0.1.1
+        version: 0.1.1(magicast@0.3.5)(oxc-parser@0.72.3)
       ofetch:
         specifier: ^1.4.1
         version: 1.4.1
@@ -3800,8 +3800,8 @@ packages:
   nth-check@2.1.1:
     resolution: {integrity: sha512-lqjrjmaOoAnWfMmBPL+XNnynZh2+swxiX3WUE0s4yEHI6m+AwrK2UZOimIRl3X/4QctVqS8AiZjFqyOGrMXb/w==}
 
-  nuxt-version-shake@0.1.0:
-    resolution: {integrity: sha512-YhLac5mHa/zyNvfxASTAEb64YCzxhl6oanpYQmBt1Of80i73bFbBimABigmkn89UxWI4Nxyn3uSuK+BdtNUO9w==}
+  nuxt-version-shake@0.1.1:
+    resolution: {integrity: sha512-E1yZvPiWdqt1wbKyCwCUqq27nKM/Bg2OEowaMX2jAsHXcGUmpCq29xfGR14a3nVPAzGNSE6AgR++yoh3wlr60Q==}
 
   nuxt@3.17.5:
     resolution: {integrity: sha512-HWTWpM1/RDcCt9DlnzrPcNvUmGqc62IhlZJvr7COSfnJq2lKYiBKIIesEaOF+57Qjw7TfLPc1DQVBNtxfKBxEw==}
@@ -9718,7 +9718,7 @@ snapshots:
     dependencies:
       boolbase: 1.0.0
 
-  nuxt-version-shake@0.1.0(magicast@0.3.5)(oxc-parser@0.72.3):
+  nuxt-version-shake@0.1.1(magicast@0.3.5)(oxc-parser@0.72.3):
     dependencies:
       '@nuxt/kit': 3.17.5(magicast@0.3.5)
       consola: 3.4.2
